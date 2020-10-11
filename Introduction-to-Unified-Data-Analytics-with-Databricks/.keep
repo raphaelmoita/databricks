@@ -1,1 +1,17 @@
 
+### These four workspace components are what enable organizations to adopt a UDA approach to big data.
+
+- Enterprise Cloud Service
+- Unified Data Service
+- Data Science Workspace
+- BI Integrations
+
+### Collaborative Data Science Workspace
+
+The Workspace is the physical location where everyone on your data science team works together, from data ingest to production. Depending on the role of the data practitioner, they’ll use different functionality within the workspace, but they will still be in the same workspace and will have the ability to collaborate with each other. 
+
+### There are three major components of the Data Science Workspace 
+
+- Collaborative notebooks
+- Managed MLFlow
+- Runtime for Machine Learning.
